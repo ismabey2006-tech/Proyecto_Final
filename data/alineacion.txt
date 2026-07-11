@@ -1,0 +1,11 @@
+Portero,Buffon,Italia
+Defensor,Cannavaro,Italia
+Defensor,Ramos,Espana
+Defensor,Pique,Espana
+Defensor,Maldini,Italia
+Mediocampista,Iniesta,Espana
+Mediocampista,Modric,Croacia
+Mediocampista,Xavi,Espana
+Mediocampista,Kroos,Alemania
+Delantero,Messi,Argentina
+Delantero,Kitu Diaz,Argentina
